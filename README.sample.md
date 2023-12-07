@@ -15,7 +15,7 @@ $ export MIX_TARGET=rpi4
 # ビルド（初回は数分～十数分程度かかります）
 $ mix deps.get && mix firmware
 Resolving Hex dependencies...
-・・・
+・・・（省略）・・・
 Generated ex_gpio app
 |nerves| Building OTP Release...
 
